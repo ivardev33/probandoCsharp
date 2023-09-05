@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivar\\Desktop\\TMB_CSHARP\\TMB_CSHARP\\TMB_CSHARP.csproj",
+      "projectUniqueName": "C:\\Users\\Ivar\\Documents\\PROGRAMACION\\VISUAL STUDIO\\PROYECTOS PERSONALES_C#\\TMB_CSHARP\\TMB_CSHARP\\TMB_CSHARP.csproj",
       "projectName": "TMB_CSHARP",
-      "projectPath": "C:\\Users\\Ivar\\Desktop\\TMB_CSHARP\\TMB_CSHARP\\TMB_CSHARP.csproj",
+      "projectPath": "C:\\Users\\Ivar\\Documents\\PROGRAMACION\\VISUAL STUDIO\\PROYECTOS PERSONALES_C#\\TMB_CSHARP\\TMB_CSHARP\\TMB_CSHARP.csproj",
       "packagesPath": "C:\\Users\\Ivar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivar\\Desktop\\TMB_CSHARP\\TMB_CSHARP\\obj\\",
+      "outputPath": "C:\\Users\\Ivar\\Documents\\PROGRAMACION\\VISUAL STUDIO\\PROYECTOS PERSONALES_C#\\TMB_CSHARP\\TMB_CSHARP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
