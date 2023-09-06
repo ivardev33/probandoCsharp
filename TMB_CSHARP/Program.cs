@@ -15,24 +15,28 @@ class Program
 
     static void Main()
     {
+        do
 
-        int n2, n3;
-        double n1;
-        double resultado;
+        {
+            int n2, n3;
+            double n1;
+            double resultado;
 
-        Console.Write("Dime tu peso en kg : ");
-        n1 = double.Parse(Console.ReadLine());
-        Console.Write("Dime tu altura en cm : ");
-        n2 = int.Parse(Console.ReadLine());
-        Console.Write("Dime tu edad : ");
-        n3 = int.Parse(Console.ReadLine());
+            Console.Write("Dime tu peso en kg : ");
+            n1 = double.Parse(Console.ReadLine());
+            Console.Write("Dime tu altura en cm : ");
+            n2 = int.Parse(Console.ReadLine());
+            Console.Write("Dime tu edad : ");
+            n3 = int.Parse(Console.ReadLine());
 
-        resultado = (10 * n1) + (6.25 * n2) - (5 * n3) + 5;
+            resultado = (10 * n1) + (6.25 * n2) - (5 * n3) + 5;
 
-        Console.WriteLine("El resultado es {0}", resultado);
-        Console.WriteLine("Gracias por usar mi calculadora");
+            Console.WriteLine("El resultado es {0}", resultado);
+            Console.WriteLine("Gracias por usar mi calculadora");
 
 
+            Console.WriteLine("Deseas repetir ? (S/N): ");
+        } while (Console.ReadLine().Equals("S", StringComparison.OrdinalIgnoreCase));
 
 
     }
